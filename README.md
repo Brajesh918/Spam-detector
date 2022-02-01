@@ -1,2 +1,2 @@
 # Spam-detector
-link->
+link->https://spam-detector-apps.herokuapp.com/
